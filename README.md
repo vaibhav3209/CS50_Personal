@@ -1,0 +1,2 @@
+- This will include my Learnings from the CS50 Programming with Python course.
+- This was my first introduction to python Language.
